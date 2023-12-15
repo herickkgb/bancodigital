@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754314292833",
+    "project_id": "banco-digital-d9482",
+    "storage_bucket": "banco-digital-d9482.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754314292833:android:a0ffa5c2834125cbe90420",
+        "android_client_info": {
+          "package_name": "com.herick.bancodigital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6fUkFqUdsofR_zsgjT3kvcqWCuk60080"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
